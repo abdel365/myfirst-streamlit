@@ -1,2 +1,0 @@
-# myfirst-streamlit
-test streamlit
